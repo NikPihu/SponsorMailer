@@ -1,6 +1,6 @@
-Hi there,
+Hi {hr},
 
-I am Ajay Singh Tomar from the Technical Board. Thank you for participating in Solutions 2K26. It is the flagship technical event organized by the Technical Board at AIT Pune 🚀. The event includes a variety of competitions such as coding, problem-solving, and technical challenges 👩‍💻, aimed at encouraging innovation and teamwork 🤝.
+I am Nikunj Tangle from the Technical Board. Thank you for participating in Placement Aptitude Test in Solutions 2K26. It is the flagship technical event organized by the Technical Board at AIT Pune 🚀. The event includes a variety of competitions such as coding, problem-solving, and technical challenges 👩‍💻, aimed at encouraging innovation and teamwork 🤝.
 
 Here are the details for the Placement Aptitude Test:
 
@@ -18,5 +18,5 @@ Organizer Number:9270434984
 Solutions Website:-https://www.aitsolution2k26.tech/
 
 Best regards,
-Ajay Singh Tomar
+Nikunj Tangle
 Technical Board,AIT Pune

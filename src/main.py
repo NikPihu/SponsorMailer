@@ -62,7 +62,7 @@ for idx in range(start_index, end_index):
         # Send
         send_email(
             to=recipient,
-            subject="Solutions 2K26 | Placement Aptitude Test Details",
+            subject="Important: Solutions 2K26 Aptitude Test Information",
             body=email_body,
             image_path="assets/Placement_apti_image.png"
         )
